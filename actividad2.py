@@ -1,4 +1,4 @@
-from turtle import *
+actividad2.pyfrom turtle import *
 from random import randrange
 from freegames import square, vector
 
